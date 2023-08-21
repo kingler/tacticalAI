@@ -1,0 +1,11 @@
+Website Wireframe:
+
+- Home Page: Display a brief introduction to the DAO and its mission. Include a call-to-action to join the DAO or log-in for existing members.
+
+- About Page: Provide detailed information about the DAO, its founding members, and its history.
+
+- Membership Page: Explain the benefits of becoming a member and the different membership tiers. Include a call-to-action to purchase a membership.
+
+- Game Page: Showcase the browser-based card game. Include a brief description of the game, screenshots, and a call-to-action to play the game (restricted to members).
+
+- Contact Page: Provide contact information for the DAO and a form for users to send inquiries.

@@ -1,0 +1,11 @@
+Website Copy:
+
+- Home Page: 'Welcome to our DAO, where we strive to create a collaborative and innovative community. Join us and be part of the change.'
+
+- About Page: 'Our DAO was founded with the aim of fostering innovation and collaboration. Learn more about our journey and the people behind it.'
+
+- Membership Page: 'Become a member and enjoy exclusive benefits. Choose from our various membership tiers to find the one that suits you best.'
+
+- Game Page: 'Our browser-based card game is a fun and exciting way to engage with our community. Available exclusively to our members.'
+
+- Contact Page: 'Have any questions or inquiries? We're here to help. Get in touch with us.'

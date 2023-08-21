@@ -1,0 +1,13 @@
+Website Wireframe and Copy:
+
+1. Home: Provide an overview of the organization and its mission. Call to action: 'Join us in promoting safe dating practices and enjoy our exclusive card game.'
+
+2. About Us: Provide detailed information about the organization and its team. Include testimonials from happy members.
+
+3. Membership: Explain the benefits of membership and provide options to purchase different levels of membership. Highlight the benefits of each tier and include a call to action: 'Become a member today and gain access to our exclusive card game.'
+
+4. Card Game: Provide information about the game and access to the game for members. Include screenshots and reviews of the game, and a call to action: 'Join us and start playing today.'
+
+5. Contact Us: Provide contact information and a form for visitors to send messages to the organization.
+
+Integration with DAO: The website should be integrated with the DAO to enable the sale of memberships and access to the card game. This will likely involve the use of blockchain technology and smart contracts.
